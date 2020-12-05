@@ -4,7 +4,7 @@ A simple, secure and effective method to manage kube config files. Without insta
 
 > Some backstory:
 >
-> My `.kube/config` file contained hundreds of lines of yaml. It became a pain to edit the file. I wanted to simplify this without installing any tools to manage the file. It should be possible to able to add/remove kubernetes contexts manually.
+> My `.kube/config` file contained hundreds of lines of yaml. It became a pain to edit the file. I wanted to simplify this without installing any tools to manage the file. It should be possible to add/remove kubernetes contexts manually.
 
 This walkthrough helps you setup a simple structure to manage large number of kubernetes contexts.
 
